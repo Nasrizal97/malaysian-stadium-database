@@ -74,7 +74,7 @@ A plain-text copy of the data is in [`data/stadiums.csv`](data/stadiums.csv).
 
 **Analysis**
 
-<img src="images/analysis.png" alt="Analysis dashboard" width="700">)
+<img src="images/Analysis.png" alt="Analysis dashboard" width="700">)
 
 **Search**
 
