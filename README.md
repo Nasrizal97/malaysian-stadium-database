@@ -62,7 +62,7 @@ A plain-text copy of the data is in [`data/stadiums.csv`](data/stadiums.csv).
 
 **Menu**
 
-!\[Menu sheet](images/menu.png)
+<img src="images/menu.png" alt="Menu sheet" width="700">
 
 **Data entry form**
 
