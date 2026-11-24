@@ -91,13 +91,13 @@ A plain-text copy of the data is in [`data/stadiums.csv`](data/stadiums.csv).
 
 |By state|By venue type|
 |-|-|
-|!\[Stadiums by state](images/chart-stadiums-by-state.jpg)|!\[Venue type](images/chart-venue-type.png)|
+|![Stadiums by state](images/chart-stadiums-by-state.jpg)|![Venue type](images/chart-venue-type.png)|
 
 |By surface|By opening decade|
 |-|-|
-|!\[Surface type](images/chart-surface-type.jpg)|!\[Openings by decade](images/chart-openings-by-decade.jpg)|
+|![Surface type](images/chart-surface-type.jpg)|![Openings by decade](images/chart-openings-by-decade.jpg)|
 
-!\[Average capacity by athletics track](images/chart-capacity-by-track.jpg)
+![Average capacity by athletics track](images/chart-capacity-by-track.jpg)
 
 ## How to use the workbook
 
