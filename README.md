@@ -22,7 +22,7 @@ A menu-driven, macro-enabled **Microsoft Excel database** of 50 sports stadiums 
 
 A plain-text copy of the data is in [`data/stadiums.csv`](data/stadiums.csv).
 
-> \*\*Data quality note:\*\* names, states, capacity and operators were collected from public sources. Construction cost, floodlight lux and last renovation date are published inconsistently, so treat those three fields as approximate and verify them against official sources before relying on them.
+> **Data quality note:** names, states, capacity and operators were collected from public sources. Construction cost, floodlight lux and last renovation date are published inconsistently, so treat those three fields as approximate and verify them against official sources before relying on them.
 
 ## Data dictionary
 
