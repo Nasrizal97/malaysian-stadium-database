@@ -8,7 +8,7 @@ A menu-driven, macro-enabled **Microsoft Excel database** of 50 sports stadiums 
 |-|-|
 |Data modelling|18 attributes per stadium, with a unique `Stadium ID` (e.g. `STD-001`) and audit fields (`Created By`, `Created On`)|
 |Data types|Text, integer, currency (RM), date and hyperlink, each formatted correctly|
-|Data entry \& validation|Excel form with required-field markers, dropdown lists, number/date rules and VBA Save / Reset|
+|Data entry & validation|Excel form with required-field markers, dropdown lists, number/date rules and VBA Save / Reset|
 |Search|Single search box that filters across all columns using the `FILTER` function|
 |Analysis|4 PivotTables, 4 PivotCharts, 4 slicers and KPI cards on an Analysis sheet|
 |Reporting|Written report covering scope, data management, evidence of work, charts and conclusion|
@@ -101,7 +101,7 @@ A plain-text copy of the data is in [`data/stadiums.csv`](data/stadiums.csv).
 
 ## How to use the workbook
 
-1. Download `DATABASE\_STADIUM\_IN\_MALAYSIA.xlsm`.
+1. Download `DATABASE_STADIUM_IN_MALAYSIA.xlsm`.
 2. Open it in **Microsoft Excel for Windows** (Microsoft 365 or Excel 2021 or later, because the Search sheet uses `FILTER` and the Analysis sheet uses `UNIQUE`).
 3. Click **Enable Content** when prompted, so the macros and buttons work.
 4. Start from the **Menu** sheet. Use **Register Stadium** to add a record, **Search** to look one up and **Analysis** for the dashboard.
