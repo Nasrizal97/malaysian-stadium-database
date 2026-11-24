@@ -66,19 +66,19 @@ A plain-text copy of the data is in [`data/stadiums.csv`](data/stadiums.csv).
 
 **Data entry form**
 
-!\[Data entry form](images/form.png)
+<img src="images/form.png" alt="Data entry form" width="700">
 
 **Database (Excel Table with hyperlinks)**
 
-!\[Database sheet](images/database.png)
+<img src="images/database.png" alt="Database sheet" width="700">
 
 **Analysis**
 
-!\[Analysis dashboard](images/analysis.png)
+<img src="images/analysis.png" alt="Analysis dashboard" width="700">)
 
 **Search**
 
-!\[Search sheet](images/search.png)
+<img src="images/search.png" alt="Search sheet" width="700">
 
 ## Key findings
 
